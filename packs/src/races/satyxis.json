@@ -1,0 +1,68 @@
+{
+  "_id": "aHTokZ151W0ASSmo",
+  "name": "Satyxis",
+  "permission": {
+    "default": 0
+  },
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<p><em>Satyxis are fearsome women from the island of Satyx, a legendary place hidden somewhere among the fog-shrouded Scharde Islands. Theirs is an ancient race, known for its cruelty and skill in combat. Once they were human, but for over a thousand years they have been known as the foremost living servants of Lord Toruk. They are easily distinguished by the twisted horns growing from their skulls, a physical manifestation of the dragon blight that transformed their race. <br><br>Some mainlanders think the Satyxis’ form is connected to Toruk, but this blight originates from a different dragon, now deceased. In 1650 BR, over six centuries before the founding of Cryx, the Dragonfather battled the white dragon Shazkz in the skies over Satyx. Though Shazkz tried to defend himself, Toruk savaged the lesser dragon and consumed his essence. Blighted blood rained down on the island. The lands were corrupted and changed, the sands poisoned, and the men of Satyx withered into malformed husks. The women of the island, though, changed in different ways. They became something inhuman, growing their characteristic horns and having their already heightened cruelty twisted and refined into something truly terrifying. When Toruk came to claim the island as part of his domain, the Satyxis queen was quick to join the fate of her people to the great dragon, offering him warriors and worship. From that day forward, many skilled Satyxis raiders have sailed among Cryxian pirate fleets as sea reavers. Their society is inextricably bound up in blood rituals and cycles of predation upon those living on the mainland, making them feared and despised by the majority of non-Cryxians. Satyxis are killed on sight in most mainland towns and cities and are treated warily even in those few pirate dens where they are sometimes seen</em></p>\n<p><em><strong>Ability Score Increase.</strong></em> Your Intelligence score increases by 1, and your Charisma score increases by 2.</p>\n<p><em><strong>Age.</strong></em> Tieflings mature at the same rate as humans but live a few years longer.</p>\n<p><em><strong>Alignment.</strong></em> Satyxis might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many Satyxis toward a chaotic alignment.</p>\n<p><em><strong>Size.</strong></em> Satyxis are about the same size and build as humans aside from their massive horns. Your size is Medium.</p>\n<p><em><strong>Speed. </strong></em>Your base walking speed is 30 feet.</p>\n<p><em><strong>Darkvision.</strong></em> Thanks to your draconic heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>\n<p><em><strong>Blight Resistance. </strong></em>You have resistance to necrotic damage.</p>\n<p><em><strong>Blood Rituals.</strong></em> When you cast a ritual spell, if you spill your own blood or that of another creature during the casting, the ritual version of the spell takes 1 minute to cast rather than 10.</p>\n<p><em><strong>Languages.</strong></em> You can speak, read, and write Common and Scharde.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "PHB pg. 43, Iron Kingdoms Requiem pg. 233",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "flags": {},
+  "img": "systems/dnd5e/icons/spells/wind-red-3.jpg",
+  "effects": []
+}

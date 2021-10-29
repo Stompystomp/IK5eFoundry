@@ -1,0 +1,68 @@
+{
+  "_id": "A69KxdH1renVPrQV",
+  "name": "Iosan",
+  "permission": {
+    "default": 0
+  },
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<p><em>The learned and physically graceful people of Ios are the remnants of a once-vast empire that has long since collapsed. For many centuries, their former strength as a nation has dwindled, as have their numbers, leaving their forested cities a twilight kingdom of empty relics and unoccupied streets with only a fraction of their former numbers to inhabit them.</p><p><strong>Centuries Facing Doom</strong><br>Iosans are physically similar to humans, with males and females standing 6 feet tall on average. They tend to have a slenderer build than humans but are nearly as robust. Iosans live considerably longer than most races, which has given rise to a reputation for agelessness. Many enjoy lives over two centuries long, for they are not prone to disease and rarely show the ravages of time, even in their advanced years. Given the imminent doom their race faces, their longevity is not seen as a great advantage. Iosans are generally pale and have a wide range of hair colors, with some dying their hair exotic shades. Certain sects wear tattoos as a way to show solidarity, and a number have also chosen to shave their heads.</p><p><strong>History</strong><br>Although Ios has been a part of western Immoren for almost as long as human civilization has existed, the Iosans originally came from eastern Immoren. The disaster that destroyed their old civilization led to the gradual decline of their entire race. Not many non-Iosans know it, but the few Iosans they encounter are part of a dwindling generation facing the prospect of an extinction that might occur within their lifetimes. This existential crisis has led to xenophobia and extreme secrecy among most Iosans. Outsiders who come to know Iosans soon realize they are an intelligent and skilled people equally well versed in combat and the arcane arts. Iosans are deeply private about religious matters, but when they discuss such topics, they do so with a mixture of deep devotion and great sadness.</p><p><strong>A Grim Outlook</strong><br>Iosans have been reticent for as long as humanity can remember, but their isolationism has taken an extreme turn in the last few decades, during which the nation of Ios has closed its borders and cut off all trade with foreigners. Its forests are a strange and silent place from which no Iosans emerge, and intruders who venture beyond its borders are never seen again. Rumors circulate of some great downfall, perhaps matching the Cataclysm of ancient days, but neither scholars nor treasure hunters have returned to confirm the truth. Despite all this, a number of Iosans live among the human kingdoms. These tend to be exiles, pilgrims, or well-armed agents serving vital missions. Two Iosan religious sects have specific reasons to be abroad in human lands: the Seekers and the Retribution of Scyrah, with the former tending to be much friendlier to humans than the latter.</em></p><p><strong>Iosan Names</strong><br>Iosans and Nyss share the same root culture and language, and thus there are many similarities between the names commonly used by both peoples. Iosan names tend to be consonant-heavy, and sibilance is common. Iosans use y as a long vowel in many names, and most other vowels are unstressed.<br><br><em>Masculine Names:</em>: Alcyr, Avross, Bres, Callael, Callis, Cinsyr, Cyvross, Erryll, Felcyr, Glyssor, Gossyr, Laconfir, Lani, Lissor, Neriwhen, Pelyth, Rillis, Sarlos, Shas, Thale, Tryiss, Tylth, Vyros, Vystral<br><br><em>Feminine Names:</em>: Aesha, Alyssa, Caelyth, Cytyss, Dahlia, Edrea, Falcir, Feen, Gaelyr, Hellith, Lorimir, Lothwyn, Meryll, Miir, Renyll, Sacyl, Shael, Sillith, Tanyr, Tathir, Tenae, Velwhin, Veryth, Ystith<br><br><em>Surnames</em>:Alcyan, Alcys, Alcyss, Asir, Breir, Brese, Ellith, Ellithyr, Elloth, Ellowuyr, Ellyr, Faeryr, Hallith, Hallyr, Heryllith, Larir, Larisar, Lloryr, Lloryrr, Llothyr, Luynmyr, Luyr, Lyoryr, Lyorys, Lyoryss, Menellyr, Menellyth, Raefyll, Raefyllyr, Reyvas, Reyvreir, Reyvrese, Ryssyll, Ryssyllyr, Ryssyllyth, Syvas, Syvreir, Syvrese, Vrir, Waelen, Wyldiss, Wyllyrr, Wyllyth<br></p>\n<p><em><strong>Ability Score Increase.</strong></em> Your Intelligence score increases by 2, and your Charisma score increases by 1.</p>\n<p><em><strong>Age.</strong></em> Although they reach maturity at nearly the same age as humans, Iosans live far longer. Many live to be over 200 years old, with some living up to three centuries</p>\n<p><em><strong>Alignment.</strong></em> Iosans do not tend toward a particular alignment. While some uphold the common good and the rule of law, others seek personal gain over the well-being of others.</p>\n<p><em><strong>Size.</strong></em> Iosans tend to have slender builds and are roughly as tall as humans. Your size is Medium.</p>\n<p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p>\n<p><em><strong>Darkvision.</strong></em> Accustomed to the gloomy forests of Ios, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.</p>\n<p><em><strong>Keen Senses.</strong></em> You have proficiency in the Perception skill.</p>\n<p><em><strong>Martial Society.</strong></em> When you make an attack roll and roll a 1, you can reroll the die but must use the new roll, even if it is another 1.</p>\n<p><em><strong>Skill Versatility.</strong></em> The long lifespan of Iosans gives them the opportunity to master many skills and crafts. You have proficiency with any combination of two other skills or tools of your choice.</p>\n<p><em><strong>Languages.</strong></em> You can speak, read, and write Shyr and one other language you have picked up in your travels</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Iron Kingdoms Requiem pg. 66",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "flags": {},
+  "img": "systems/dnd5e/icons/spells/leaf-acid-3.jpg",
+  "effects": []
+}
