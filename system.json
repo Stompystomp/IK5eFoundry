@@ -2,7 +2,7 @@
   "name": "ik5e",
   "title": "IK5e",
   "description": "A system for playing IKRPG in DnD5e",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Stompystomp",
   "scripts": [],
   "esmodules": ["dnd5e.js"],
@@ -94,6 +94,6 @@
   "minimumCoreVersion": "0.8.2",
   "compatibleCoreVersion": "0.8.9",
   "url": "https://github.com/Stompystomp/IK5eFoundry",
-  "manifest": "https://github.com/Stompystomp/IK5eFoundry/blob/patch/IK5e-First-Mods/system.json",
-  "download": "??"
+  "manifest": "https://github.com/Stompystomp/IK5eFoundry/releases/download/0.0.2/system.json",
+  "download": "https://github.com/Stompystomp/IK5eFoundry/releases/download/0.0.2/IK5eFoundry-test.zip"
 }
